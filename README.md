@@ -13,7 +13,8 @@
 6. Have you setup check script to ensure work is fine? It is advisable that run check script more frequent if you new deployment is critical.
 
 7. For any spending action. Please ensure that
-    - Transfer page has preview and confirmation and TAC requirement.
+    - Transfer page has preview and confirmation.
+    - TAC or OTP is required.
     - Add minimum spend (to prevent end user fill in -ve amount)
     - Duplicate insert prevention.
     
