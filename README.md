@@ -12,10 +12,15 @@
 
 6. Have you setup check script to ensure work is fine? It is advisable that run check script more frequent if you new deployment is critical.
 
-7. Remember to keep monitor from time to time. This includes
+7. For any spending action. Please ensure that
+    - Transfer page has preview and confirmation and TAC requirement.
+    - Add minimum spend (to prevent end user fill in -ve amount)
+    - Duplicate insert prevention.
+    
+8. Remember to keep monitor from time to time. This includes
     - Correctness in DB data.
     - Correctness in monetary payout.
     - Check script has no bug and done its work.
     - No duplicate insert.
     
-8. ...
+
