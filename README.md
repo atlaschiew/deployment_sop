@@ -12,6 +12,8 @@
 
 6. Have you setup check script to ensure work is fine? It is advisable that run check script more frequent if you new deployment is critical.
 
-7. Remember to keep monitor from time to time
+7. Remember to keep monitor from time to time. This includes
+* Correctness in DB data.
+* Correctness in monetary payout.
 
 8. ...
