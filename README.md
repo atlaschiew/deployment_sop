@@ -20,9 +20,10 @@
     - Duplicate insert prevention.
     
 8. Remember to keep monitor from time to time. This includes
-    - Correctness in DB data.
-    - Correctness in monetary payout.
+    - Correctness of DB data.
+    - Accurancy of monetary payout.
     - Check script has no bug and done its work.
     - No duplicate insert.
+    - Activity log properly.
     
 
