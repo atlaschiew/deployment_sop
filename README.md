@@ -26,4 +26,5 @@
     - No duplicate insert.
     - Activity log properly.
     
+9. Check are there any echo, debug, print_r, var_dump in your script to prevent leaking of sensitive debug info.
 
