@@ -4,7 +4,7 @@
 
 2. Is your new deployment thing tested by client?
 
-3. Have you temporarily close down withdrawal or transfer or any other spending action to prevent user spend illegal money?
+3. Have you decided to temporarily close down withdrawal or transfer or any other spending action to prevent user spend illegal money from program bugs?
 
 4. Will your new deployment just open to certain users to avoid error happen to large scale of users?
 
